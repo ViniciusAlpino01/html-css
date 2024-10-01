@@ -1,4 +1,4 @@
 # html-css
- Tudo sobre Html e Css
+ Projeto de site básico
 
 estou aprendendo
